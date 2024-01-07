@@ -127,9 +127,12 @@ main{
 .about-info{
     text-align: center;
 }
-.info-title{
+/* .info-title{
 
 }
 .info-description{
 
+} */
+#whatido-description{
+    padding: 30px 150px;
 }
